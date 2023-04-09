@@ -1,0 +1,24 @@
+C:\Users\Andrej\SI_2023_lab1_183108>git log
+commit 6bc77037c6ca29ae8a7cfa097cbad5455d7b70f5 (HEAD -> master, origin/master)
+Author: Andrej Cvetanov <andrejcvetanov@yahoo.com>
+Date:   Sun Apr 9 21:20:18 2023 +0200
+
+    Add java class
+
+commit 52c66dcd91abce55335e5cf4c52814deccbb6db7
+Author: Andrej Cvetanov <andrejcvetanov@yahoo.com>
+Date:   Sun Apr 9 21:09:51 2023 +0200
+
+    Add java class
+
+commit d5fa627fa1ecb368602ba8faa87e10348dc50b95 
+Author: Andrej Cvetanov <andrejcvetanov@yahoo.com>
+Date:   Sun Apr 9 17:25:41 2023 +0200
+
+    Initial commit
+
+commit c911578cb32f8b0cded3634643c8eaf32f342572
+Author: Andrej <andrejcvetanov@yahoo.com>
+Date:   Sun Apr 9 17:12:48 2023 +0200
+
+    Initial commit
