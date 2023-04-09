@@ -1,0 +1,24 @@
+1.
+2.
+3.https://github.com/cvetanovandrej/SI_2023_lab1_183108.git
+4.mkdir SI_2023_lab1_183108
+  cd SI_2023_lab1_183108       //inicijalizacija na lokalen repozitorium so isto ime kako repozitoriumot na github
+  git init
+5.git remote add origin https://github.com/cvetanovandrej/SI_2023_lab1_183108.git // povrzuvanje na lokalniot repozitorium so remote 
+6.notepad README.md        // dodavanje README.md datoteka
+  git add .                // ja stavame na stage
+  git commit -m "Initial commit"   // ja commit-nuvame
+7.notepad SILab1.java          // kreiranje na java datoteka
+  git add .                    // ja stavame na stage
+  git commit -m "Add java class"   // ja commit-nuvame
+8. git push
+27.git log  // prikazuvanje na site dosegashni git logovi
+   notepad logs.txt   // kreiranje na datoteka
+   git add .  // ja stavame na stage
+   git commit -m "Logs"   // ja commit-nuvame
+   notepad 183108.txt      
+   git add .                       // ja stavame na stage
+   git commit -m "Final commit"     // ja commit-nuvame
+
+28.git push
+ 
